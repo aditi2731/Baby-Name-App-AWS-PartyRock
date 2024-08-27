@@ -1,6 +1,6 @@
 # Baby-Name-App-AWS-PartyRock
 
-This app is made with the AWS Genrative AI service AWS PartyRock. It recommends baby names depending on the baby's Date of Birth , Gender and Culture.
+This app is made with the AWS Generative AI service AWS PartyRock. It recommends baby names depending on the baby's Date of Birth , Gender and Culture.
 
 # Steps To Make This Project:-
 1. go to -> https://partyrock.aws/ and signin with your third party credentials.
